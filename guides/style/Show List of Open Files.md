@@ -1,3 +1,5 @@
+**TOC:** [Steps](#-show-list-of-open-files-in-notepad) | [Info](#-info)
+
 ## 📝 Show List of Open Files in Notepad++
 
 1. In the top toolbar, go to **Settings > Preferences**.
@@ -11,13 +13,11 @@
 
 ----------
 
-#### 🔹 info
+### 🔹 info
 The *Document List Panel* (DOP) is a panel that shows a list of all your open files in [Notepad++](https://notepad-plus-plus.org/). Follow the steps below to learn how to show it.
 
 **Support:** all Notepad++ versions (?)
 
-----------
+<sup>Source: [https://ccm.net/faq/40715-notepad-how-to-enable-the-document-list-panel](https://ccm.net/faq/40715-notepad-how-to-enable-the-document-list-panel)
 
-Source: [https://ccm.net/faq/40715-notepad-how-to-enable-the-document-list-panel](https://ccm.net/faq/40715-notepad-how-to-enable-the-document-list-panel)
-
-*Alternate titles: How to Open Document List Panel in Notepad++*
+*Alternate titles: How to Open Document List Panel in Notepad++*</sup>
