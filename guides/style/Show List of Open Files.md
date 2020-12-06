@@ -19,6 +19,8 @@ The *Document List Panel* (DOP) is a panel that shows a list of all your open fi
 
 **Support:** all Notepad++ versions (?)
 
+----------
+
 Source: [https://ccm.net/faq/40715-notepad-how-to-enable-the-document-list-panel](https://ccm.net/faq/40715-notepad-how-to-enable-the-document-list-panel)
 
 <sup>*Alternate titles: How to Open Document List Panel in Notepad++*</sup>
