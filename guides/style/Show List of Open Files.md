@@ -1,6 +1,6 @@
 # 📝 Show List of Open Files in Notepad++
 
-The *Document List Panel* (DOP) is a panel that shows a list of all your open files in Notepad++. Follow the steps below to learn how to show it.
+The *Document List Panel* (DOP) is a panel that shows a list of all your open files in [Notepad++](https://notepad-plus-plus.org/). Follow the steps below to learn how to show it.
 
 **Support:** all Notepad++ versions (?)
 
